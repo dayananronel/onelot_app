@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "463282277451",
+    "project_id": "sidehustle-b6382",
+    "storage_bucket": "sidehustle-b6382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463282277451:android:0afa7a89e106127b8d11ce",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.perfmon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463282277451-j13lqqqh8a63hmuggmd9p6nv8hnhjjgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYui-UIHW4PCjYxZq2AGC9hbQPqLeuio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463282277451-j13lqqqh8a63hmuggmd9p6nv8hnhjjgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463282277451:android:ce9ecad6b39af6598d11ce",
+        "android_client_info": {
+          "package_name": "com.ronel.video_app.onelot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463282277451-j13lqqqh8a63hmuggmd9p6nv8hnhjjgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYui-UIHW4PCjYxZq2AGC9hbQPqLeuio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463282277451-j13lqqqh8a63hmuggmd9p6nv8hnhjjgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463282277451:android:2e9ec945f98286b28d11ce",
+        "android_client_info": {
+          "package_name": "com.swertres.swertresapp_ph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463282277451-j13lqqqh8a63hmuggmd9p6nv8hnhjjgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYui-UIHW4PCjYxZq2AGC9hbQPqLeuio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463282277451-j13lqqqh8a63hmuggmd9p6nv8hnhjjgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
